@@ -1,0 +1,100 @@
+Type;Super-effective against (2x);Not very effective against (1/2x);Does no damage to
+Normal;None;Rock, Steel;Ghost
+Fire;Grass, Ice, Bug, Steel;Fire, Water, Rock, Dragon;None
+Water;Fire, Ground, Rock;Water, Grass, Dragon;None
+Electric;Water, Flying;Electric, Grass, Dragon;Ground
+Grass;Water, Ground, Rock;Fire, Grass, Poison, Flying, Bug, Dragon, Steel;None
+Ice;Grass, Ground, Flying, Dragon;Fire, Water, Ice, Steel;None
+Fighting;Normal, Ice, Rock, Dark, Steel;Poison, Flying, Psychic, Bug, Fairy;Ghost
+Poison;Grass, Fairy;Poison, Ground, Rock, Ghost;Steel
+Ground;Fire, Electric, Poison, Rock, Steel;Grass, Bug;Flying
+Flying;Grass, Fighting, Bug;Electric, Rock, Steel;None
+Psychic;Fighting, Poison;Psychic, Steel;Dark
+Bug;Grass, Psychic, Dark;Fire, Fighting, Poison, Flying, Ghost, Steel, Fairy;None
+Rock;Fire, Ice, Flying, Bug;Fighting, Ground, Steel;None
+Ghost;Psychic, Ghost;Dark;Normal
+Dragon;Dragon;Steel;Fairy
+Dark;Psychic, Ghost;Fighting, Dark, Fairy;None
+Steel;Ice, Rock, Fairy;Fire, Water, Electric, Steel;None
+Fairy;Fighting, Dragon, Dark;Fire, Poison, Steel;None
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
